@@ -1,0 +1,5 @@
+.env
+__pycache__/
+*.log
+__azurite_*
+__blobstorage__/
